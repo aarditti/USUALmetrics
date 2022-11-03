@@ -6,7 +6,7 @@ Metrics Developed to Measure Reached-Based Geomorphic, Local and Upstream variab
 ### Fluvial Network
 
 This set of metrics can be run on fluvial networks delineated using the USUAL Watershed Tools.
-https://github.com/WatershedsWildfireResearchCollaborative/USUAL and {David et al., 2022}
+https://github.com/WatershedsWildfireResearchCollaborative/USUAL (David et al., 2022)
 Watersheds and pour point shapefile FID are entered into the code using an excel datasheet and are ran through the USUAL tools in line 54-72 to delineate the fluvial network and measure the valley bottom width.
 https://github.com/WatershedsWildfireResearchCollaborative/USUAL
 ### Valley Bottom/Floodplain Delineation
